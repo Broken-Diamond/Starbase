@@ -6,7 +6,7 @@ A small outpost for building, refining, and shipping software systems: open-sour
 | :--- | :--- |
 | Core Systems | Online |
 | Exploration | Underway |
-| Lab | 4 Schematics |
+| Lab | 5 Schematics |
 | Spacedock | Empty |
 | Communications | Active |
 
