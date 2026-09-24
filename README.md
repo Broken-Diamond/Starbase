@@ -75,7 +75,7 @@ Open-source contributions:
 | 2026-06-15 | **Otto:**    | [improved clarity in the documentation](https://github.com/nongio/otto/pull/101) | 2026-06-15 |
 | 2026-06-10 | **util-linux:** | [improved the contributor guidelines](https://github.com/util-linux/util-linux/pull/4414#issue-4635678518) | 2026-06-15 |
 | 2026-06-08 | **Backdown:** | [improved grammar in the README](https://github.com/Canop/backdown/pull/9) | 2026-06-08 |
-| 2026-06-08 | **ninja:** | [minor grammatical improvements in the manual](https://github.com/ninja-build/ninja/pull/2788) | not yet |
+| 2026-06-08 | **ninja:** | [minor grammatical improvements in the manual](https://github.com/ninja-build/ninja/pull/2788) | 2026-09-24 |
 
 ## Archives
 Abandoned projects:
