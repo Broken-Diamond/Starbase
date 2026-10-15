@@ -56,19 +56,20 @@ Schematics:
 - **Diffusion** — a desktop environment that values ease of use and uses progressive disclosure to keep complexity manageable. Part of Tungsten.
 - **Lumen** — a compositor for the Diffusion desktop environment.
 - **Mendelo** — a command-line (and eventually GUI-based) Rust program for viewing data on the Elements.
-- **Plinth** — accounting built on plain text
+- **Plinth** — accounting built on plain text.
 - **Tungsten** — a Linux distribution that prioritizes solidity and minimizes architectural disarray.
 
 ## Spacedock
 Projects:
 
-Nothing here yet. Projects will appear here when they are ready for launch.
+- **[Pigmatic Font](https://github.com/Broken-Diamond/pigmatic-font)** — just a fun typeface imitating the Pigpen Cipher, with its build tools.
 
 ## Port of Call
 Open-source contributions:
 
 | Date begun | Project name | Description of change | Date completed |
 | :--------- | :----------- | :-------------------- | :------------- |
+| 2026-10-13 | **pigmatic-font** | [released version 1.0](https://github.com/Broken-Diamond/pigmatic-font/releases/tag/v1.0.0) | 2026-10-13 |
 | 2026-06-28 | **TARS:** | [minor improvements to the README](https://github.com/thepylot/TARS/pull/5) | not yet |
 | 2026-06-17 | **Backdown:** | [went further, improving code comments](https://github.com/Canop/backdown/pull/10) | 2026-06-17 |
 | 2026-06-15 | **Smithay:** | [improved the README and fixed a broken link](https://github.com/Smithay/smithay/pull/2070) | 2026-06-16 |
